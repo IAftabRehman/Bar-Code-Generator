@@ -67,25 +67,19 @@ To get started with this project, follow these steps:
 ---
 
 ### 📦 Supported Barcode Formats
-
 - Code128
 - Code39
+- Code93
 - EAN13
-- UPC-A
-- ITF
+- EAN8
+- UPC-E
+- DataMatrix
+- pdf417
 - QR Code *(optional)*
 
-> You can add or limit barcode formats as needed.
 
 ---
 
-### 🖼️ Export Barcode (Optional Feature)
-
-If you want to enable saving barcode images:
-- Add packages like `screenshot`, `gallery_saver`, or `image` in `pubspec.yaml`
-- Wrap your barcode widget in a `ScreenshotController`
-
----
 
 ### 💬 Ask Me Anything!
 
